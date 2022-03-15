@@ -1,0 +1,24 @@
+#Individual flags for rideable mobs
+
+allow_donkeys: false
+#check also run for donkeys?
+allow_horses: true
+#check also run for horses?
+allow_mules: false
+#check also run for mules?
+allow_pigs: false
+#check also run for pigs?
+allow_strider: false
+#check also run for striders
+
+
+allow_everything: false
+#affects all bred mobs
+
+
+effect_speed: true
+#Speed passed down?
+
+effect_jump: false
+#Jump height passed down?
+#Only affects horses
