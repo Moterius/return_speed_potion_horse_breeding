@@ -30,7 +30,6 @@ public class Echo extends JavaPlugin implements Listener {
                     b.getAttribute(Attribute.GENERIC_MOVEMENT_SPEED).getBaseValue();
             double avg = (s_a + s_b) / 2;
             e.getEntity().getAttribute(Attribute.GENERIC_MOVEMENT_SPEED).setBaseValue(avg);
-            Bukkit.broadcast("Speed: "+avg,"*");
         }
 
     }
