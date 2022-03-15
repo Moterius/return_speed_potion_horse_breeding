@@ -1,0 +1,6 @@
+api-version: 1.18
+author: Moterius
+main: io.github.moterius.return_speed_potion_horse_breeding.Echo
+name: return_speed_potion_horse_breeding
+prefix: return_speed_potion_horse_breeding
+version: 1.0
